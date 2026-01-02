@@ -146,28 +146,3 @@ It only changes **how you see them**.
 
 ---
 
-## Limitations of Blue Ocean (Be Honest in Interview)
-
-* Not all Jenkins features supported
-* Some configs still need classic UI
-* Plugin is not heavily updated now
-
-⚠️ Because of this, many teams use **both UIs**.
-
----
-
-## Production Usage Reality
-
-* Blue Ocean is used mainly for:
-
-  * Viewing pipelines
-  * Debugging failures
-  * Demos & onboarding
-
-* Classic UI is still used for:
-
-  * Plugin management
-  * Credentials
-  * Node configuration
-
----
