@@ -1,4 +1,24 @@
-# Jenkins Architecture – 
+# Jenkins and its Architecture – 
+
+What is Jenkins?
+
+Jenkins is an open-source Continuous Integration and Continuous Delivery (CI/CD) automation tool.
+
+It is mainly used to:
+
+Build applications
+
+Run automated tests
+
+Deploy applications automatically
+
+In simple words:
+
+Jenkins automates the software delivery process whenever code changes happen.
+
+Jenkins is written in Java and runs as a service on a server.
+
+
 
 ## What is Jenkins Architecture?
 
