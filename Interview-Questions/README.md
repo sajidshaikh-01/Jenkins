@@ -189,5 +189,3 @@ Running builds on controller.
 **You:** Better scalability, isolation, and cost efficiency.
 
 ---
-
-
