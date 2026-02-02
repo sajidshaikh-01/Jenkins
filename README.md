@@ -202,4 +202,4 @@ Plugins extend Jenkins functionality.
 ❌ Too many plugins = instability
 ✅ Install only what you need
 
----
+--
