@@ -24,7 +24,7 @@ Jenkins is written in Java and runs as a service on a server.
 
 Jenkins architecture defines **how Jenkins components interact** to execute CI/CD pipelines efficiently, securely, and at scale. In production, Jenkins follows a **Controller–Agent (Master–Worker)** model.
 
----
+--
 
 ## High-Level Jenkins Architecture Diagram
 
